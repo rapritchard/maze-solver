@@ -1,7 +1,15 @@
 # Maze Solver
 Maze Solver created following the Boot.dev course - BUILD A MAZE SOLVER
 
+Uses tkinter to render GUI maze.
+
 Uses a recursive depth-first traversal to create the maze and a recursive depth-first search to solve it.
+
+## Running
+To run, use the following command:
+```shell
+python src/main.py
+```
 
 ## Algorithm to solve
 1. Recursive backtracking - The method explores each possible direction (left, right, up and down) to find a path through the maze. It checks each path fully before backtracking.
