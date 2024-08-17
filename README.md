@@ -1,5 +1,5 @@
 # Maze Solver
-Maze Solver created following the Boot.dev course - BUILD A MAZE SOLVER
+Maze Solver created following the Boot.dev course - BUILD A MAZE SOLVER (Instructions for what to do, not following what to do)
 
 Uses tkinter to render GUI maze.
 
